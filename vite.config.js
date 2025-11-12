@@ -5,5 +5,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base: process.env.VITE_BASE_PATH || "/FoodHub-Food-Delivery-App",
+  // base: process.env.VITE_BASE_PATH || "/FoodHub-Food-Delivery-App",
 })
